@@ -10,7 +10,7 @@ class Student {
     public static void main(String[] args) {
         Student s1 = new Student();   // object creation
         s1.id = 101;
-        s1.name = "Priscilla";
+        s1.name = "peter";
         s1.display();
     }
 }
